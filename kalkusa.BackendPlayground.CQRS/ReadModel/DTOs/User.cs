@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace kalkusa.BackendPlayground.REST.Models
+namespace kalkusa.BackendPlayground.CQRS.ReadModel.DTOs
 {
     public class User
     {
